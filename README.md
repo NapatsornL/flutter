@@ -1,20 +1,16 @@
-ITCS424_Wireless and Mobile Computing
-Work on following basic application
+# teammember
 
-An Introduction to Flutter: The Basics (freecodecamp.org)
+A new Flutter project.
 
-Replace list of football team with list of 
+## Getting Started
 
-1. Your ID
+This project is a starting point for a Flutter application.
 
-2. Your full name
+A few resources to get you started if this is your first Flutter project:
 
-3. Your Project name 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-4. ID  Member in your teams
-
-Submit your
-
-1.  github link of your work.
-
-2. Capture screen of your output
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
